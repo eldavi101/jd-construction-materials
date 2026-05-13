@@ -1,0 +1,32 @@
+# llms.txt for jdconstructionmaterials.com
+
+site: https://jdconstructionmaterials.com
+name: J&D Construction Materials
+description: Professional construction materials store serving USA contractors and builders.
+language: en
+contact: info@jdconstructionmaterials.com
+
+## Primary Sections
+- https://jdconstructionmaterials.com/
+- https://jdconstructionmaterials.com/catalog
+- https://jdconstructionmaterials.com/pro-account
+
+## Category Pages
+- https://jdconstructionmaterials.com/category/structural
+- https://jdconstructionmaterials.com/category/framing-lumber
+- https://jdconstructionmaterials.com/category/drywall
+- https://jdconstructionmaterials.com/category/roofing
+- https://jdconstructionmaterials.com/category/plumbing
+- https://jdconstructionmaterials.com/category/electrical
+- https://jdconstructionmaterials.com/category/hardware
+- https://jdconstructionmaterials.com/category/tools
+- https://jdconstructionmaterials.com/category/paint
+- https://jdconstructionmaterials.com/category/flooring
+- https://jdconstructionmaterials.com/category/insulation
+
+## Data & Feeds
+- https://jdconstructionmaterials.com/sitemap.xml
+- https://jdconstructionmaterials.com/robots.txt
+
+## Usage Notes
+Product availability and pricing can change. Prefer citing the product page directly for current values.
