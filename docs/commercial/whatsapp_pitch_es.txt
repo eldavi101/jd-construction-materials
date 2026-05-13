@@ -1,0 +1,17 @@
+Hola [Nombre], te comparto una propuesta concreta para J&D Construction Materials.
+
+La tienda se desarrollaria 100% a codigo (sin Shopify ni WordPress), con:
+- catalogo de productos
+- carrito + checkout con Stripe
+- panel admin para inventario y ordenes
+- SEO tecnico completo
+- base de optimizacion para IA (FAQs estructuradas + llms.txt)
+
+Tiempo estimado: 8 semanas.
+
+Inversion familiar propuesta: USD 9,500
+Forma de pago: 40% inicio, 30% mitad, 20% pre-lanzamiento, 10% cierre.
+
+Costos operativos externos (hosting, dominio, herramientas): aprox. USD 120-450/mes + comisiones Stripe.
+
+Si te parece bien, hoy mismo cerramos alcance final, se confirma el primer pago y arrancamos Sprint 1 esta semana.
