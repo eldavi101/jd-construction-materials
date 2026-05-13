@@ -1,4 +1,4 @@
-# Build stage
+# Build stage (railway-fix-v2: no packages copy)
 FROM node:22-alpine AS builder
 
 # Install pnpm matching lockfile version
