@@ -9,9 +9,13 @@ WORKDIR /app
 # Copy workspace and lock files
 COPY pnpm-workspace.yaml package.json pnpm-lock.yaml ./
 COPY apps/api ./apps/api
+COPY packages ./packages
 
 # Install dependencies
-RUN pnpm install --frozen-lockfile
+RUN pnpm install --frozen-lockfile --prod=false
+
+# Generate Prisma client before TypeScript compilation
+RUN pnpm --filter api prisma:generate
 
 # Build API
 RUN pnpm --filter api build
